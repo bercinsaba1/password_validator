@@ -28,5 +28,5 @@ Refer to password.hex for handling authentication mechanisms.
 The interaction between these modules creates a comprehensive access control system capable of managing entry or access through secure authentication and operational flexibility.
 
 ## Contributing
-Berçin Saba Güngör 
+Berçin Saba Güngör \n
 Yusuf Eren Akgün 
